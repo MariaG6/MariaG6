@@ -6,7 +6,7 @@ I`m a spanish full stack web developer.Javascript, HTML, CSS, NodeJS, Express, M
 💞️ I’m currently looking for an opportunity to grow.<br>
 🌱 I’m always learning, this road never ends.<br>
 💬 Ask me if you want to know more!<br>
-⚡ 
+
 
 ## 💻 Tech Stack:
 Languages:
@@ -38,7 +38,7 @@ Tools & tecnologies:
 
 ## :bulb: Projects :
 <ul>
-  <li><a href='https://github.com/MariaG6/save-the-galaxy'>Project 1: Save the galay!</a></li>
+  <li>⚡ <a href='https://github.com/MariaG6/save-the-galaxy'>Project 1: Save the galaxy!</a></li>
 </ul>
 
 ## You can find me here 👇:
