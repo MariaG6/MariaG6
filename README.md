@@ -1,14 +1,14 @@
 # 👋 Hello there, I’m @MariaG6 ✨
 I`m a spanish full stack web developer.Javascript, HTML, CSS, NodeJS, Express, MongoDB and React 💻 
 
-# 💫 About Me:
+## 💫 About Me:
 🚀 I'm studying at Ironhack! <br>
 💞️ I’m currently looking for an opportunity to grow.<br>
 🌱 I’m always learning, this road never ends.<br>
 💬 Ask me if you want to know more!<br>
 ⚡ 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 Languages:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
@@ -35,6 +35,11 @@ Tools & tecnologies:
 <img src='https://camo.githubusercontent.com/61ccaa7fd5962acc1e505bf3492e34d5811c8316d86f07e0491fc69d8958b74b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974'>
 <img src='https://camo.githubusercontent.com/851717fe1659e3f6c285f37a7793de4197340d3a5cf8fdcde12577cdcf2afcf9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562'>
 <br>
+
+## :bulb: Projects :
+<ul>
+  <li><a href='https://github.com/MariaG6/save-the-galaxy'>Project 1: Save the galay!</a></li>
+</ul>
 
 ## You can find me here 👇:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/maría-garcía-montes-89ab50228) 
