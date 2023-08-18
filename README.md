@@ -1,4 +1,4 @@
-# 👋 Hello there, I’m @MariaG6 ✨
+# Hello there, I’m @MariaG6 ✨
 I`m a spanish full stack web developer.Javascript, HTML, CSS, NodeJS, Express, MongoDB and React 💻 
 
 ##  About Me:
@@ -39,12 +39,10 @@ Tools & tecnologies:
 ## :bulb: Projects :
 <ul>
   <li>⚡ <a href='https://github.com/MariaG6/save-the-galaxy'>Project 1: Save the galaxy!</a></li>
+  <li>⚡ <a href='https://github.com/MariaG6/Goalture-app'>Project 2: Goalture</a></li>
 </ul>
 
 ## You can find me here 👇:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/maría-garcía-montes-89ab50228) 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-Thank you for passing by! ✌️
+Thank you for passing by!👋
