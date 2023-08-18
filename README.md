@@ -1,7 +1,7 @@
 # 👋 Hello there, I’m @MariaG6 ✨
 I`m a spanish full stack web developer.Javascript, HTML, CSS, NodeJS, Express, MongoDB and React 💻 
 
-## 💫 About Me:
+##  About Me:
 🚀 I'm studying at Ironhack! <br>
 💞️ I’m currently looking for an opportunity to grow.<br>
 🌱 I’m always learning, this road never ends.<br>
