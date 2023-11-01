@@ -2,7 +2,7 @@
 I`m a spanish full stack web developer.Javascript, HTML, CSS, NodeJS, Express, MongoDB and React 💻 
 
 ##  About Me:
-🚀 I'm studying at Ironhack! <br>
+🚀 I studied at Ironhack! <br>
 💞️ I’m currently looking for an opportunity to grow.<br>
 🌱 I’m always learning, this road never ends.<br>
 💬 Ask me if you want to know more!<br>
@@ -40,6 +40,7 @@ Tools & tecnologies:
 <ul>
   <li>⚡ <a href='https://github.com/MariaG6/save-the-galaxy'>Project 1: Save the galaxy!</a></li>
   <li>⚡ <a href='https://github.com/MariaG6/Goalture-app'>Project 2: Goalture</a></li>
+    <li>⚡ <a href='https://github.com/MariaG6/AdoptifyMe-client'>Project 3: AdoptifyMe</a></li>
 </ul>
 
 ## You can find me here 👇:
