@@ -1,39 +1,40 @@
 # Hello there, I’m @MariaG6 ✨
-I`m a spanish full stack web developer.Javascript, HTML, CSS, NodeJS, Express, MongoDB and React 💻 
+I`m a spanish full stack web developer 💻 
 
 ##  About Me:
-🚀 I studied at Ironhack! <br>
 💞️ I’m currently looking for an opportunity to grow.<br>
 🌱 I’m always learning, this road never ends.<br>
+🚀 I studied at Ironhack! <br>
 💬 Ask me if you want to know more!<br>
 
 
 ## 💻 Tech Stack:
-Languages:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
+Languages:<br>
+<img src="https://github.com/MariaG6/MariaG6/assets/131526637/16939308-ccb5-47c9-88b0-98e9f15673a7" alt="js-image" style="width:50px;">
+<img src="https://github.com/MariaG6/MariaG6/assets/131526637/e8b76380-b5a7-4350-9c63-8bdd3cb7f282" alt="html-image" style="width:50px;">
+<img src="https://github.com/MariaG6/MariaG6/assets/131526637/c7ace7bb-f754-4caf-826c-9b329ffb72ce" alt="css-image" style="width:50px;">
 <br>
-Frameworks, platforms & libraries:
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+Frameworks, platforms & libraries:<br>
+<img src="https://github.com/MariaG6/MariaG6/assets/131526637/bda9bee2-c788-42cd-92a7-83174605c8f2" alt="react-image" style="width:50px;">
+<img src="https://github.com/MariaG6/MariaG6/assets/131526637/63a65af8-5250-4ea9-8d52-43c388d7e2bb" alt="next-image" style="width:50px;">
+<img src="https://github.com/MariaG6/MariaG6/assets/131526637/68b4ba5e-7c0b-4963-af5a-8b1db22d8256" alt="node-image" style="width:50px;">
+<img src="https://github.com/MariaG6/MariaG6/assets/131526637/82dc07bf-bb85-4eed-9006-840326aa4a0e" alt="npm-image" style="width:50px;">
+<img src="https://github.com/MariaG6/MariaG6/assets/131526637/a8a3f1e5-9fba-4b36-b34e-0c8a4a0e63eb" alt="express-image" style="width:50px;">
+<img src="https://github.com/MariaG6/MariaG6/assets/131526637/2ea7cdc7-234a-45f0-8308-472310e2215b" alt="bootstrap-image" style="width:50px;">
+<img src="https://github.com/MariaG6/MariaG6/assets/131526637/945bfda4-d431-45dc-a859-b6d0c9a50ddb" alt="tailwind-image" style="width:50px;">
 <br>
-Databases:
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
+Databases:<br>
+<img src="https://github.com/MariaG6/MariaG6/assets/131526637/6e10e373-6e23-4839-8a8d-97bf7934b2ce" alt="mongo-image" style="width:50px;">
 <br>
-Design:
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
+Design:<br>
+<img src="https://github.com/MariaG6/MariaG6/assets/131526637/583765b6-f7c7-4834-bec7-fc1e97bc1770" alt="canva-image" style="width:50px;">
 <br>
-Testing:
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) 
+Testing:<br>
+<img src="https://github.com/MariaG6/MariaG6/assets/131526637/fa0f011b-9b42-45ed-89cd-2060ab8bccd9" alt="postman-image" style="width:50px;">
 <br>
-Tools & tecnologies:
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white)<br><br>
-<img src='https://camo.githubusercontent.com/61ccaa7fd5962acc1e505bf3492e34d5811c8316d86f07e0491fc69d8958b74b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974'>
-<img src='https://camo.githubusercontent.com/851717fe1659e3f6c285f37a7793de4197340d3a5cf8fdcde12577cdcf2afcf9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562'>
+Tools & tecnologies:<br>
+<img src="https://github.com/MariaG6/MariaG6/assets/131526637/4287964a-c5ad-4bf0-9be9-4da28ecdd99f" alt="trello-image" style="width:50px;">
+<br>
 <br>
 
 ## :bulb: Projects :
