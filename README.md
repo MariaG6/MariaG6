@@ -2,7 +2,7 @@
 I`m a spanish full stack web developer 💻 
 
 ##  About Me:
-💞️ Passion is always key<br>
+💞️ Passion is always key.<br>
 🌱 I’m always learning, this road never ends.<br>
 🚀 I studied at Ironhack! <br>
 💬 Ask me if you want to know more!<br>
